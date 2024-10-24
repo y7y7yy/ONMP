@@ -156,7 +156,7 @@ init_onmp()
 
     # 生成ONMP命令
     set_onmp_sh
-    onmp start
+    /opt/bin/onmp start
 }
 
 ############### 初始化Nginx ###############
